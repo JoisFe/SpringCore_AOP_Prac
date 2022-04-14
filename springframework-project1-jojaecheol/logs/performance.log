@@ -1,0 +1,280 @@
+11:36:00.913 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 51432875 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+051432875  100%  loadAndMerge
+
+11:36:00.935 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 19919666 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+019919666  100%  getPassedStudents
+
+11:36:00.936 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 476083 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000476083  100%  getStudentsOrderByScore
+
+11:37:00.214 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 50173459 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+050173459  100%  loadAndMerge
+
+11:37:00.227 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 11266959 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011266959  100%  getPassedStudents
+
+11:37:00.228 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 649125 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000649125  100%  getStudentsOrderByScore
+
+11:38:55.314 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 57925667 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+057925667  100%  loadAndMerge
+
+11:38:55.327 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 11358958 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011358958  100%  getPassedStudents
+
+11:38:55.328 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 484917 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000484917  100%  getStudentsOrderByScore
+
+11:39:48.210 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 50986959 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+050986959  100%  loadAndMerge
+
+11:39:48.225 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 13478875 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+013478875  100%  getPassedStudents
+
+11:39:48.315 [main] INFO  c.n.e.s.project.aop.AopConfiguration - [Student{seq=2, name='B', score=Score{studentSeq=2, score=80}}
+, Student{seq=3, name='C', score=Score{studentSeq=3, score=70}}
+, Student{seq=6, name='F', score=Score{studentSeq=6, score=70}}
+, Student{seq=8, name='H', score=Score{studentSeq=8, score=90}}
+, Student{seq=9, name='I', score=Score{studentSeq=9, score=100}}
+, Student{seq=12, name='L', score=Score{studentSeq=12, score=90}}
+]
+11:39:48.318 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 1667041 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001667041  100%  getStudentsOrderByScore
+
+11:39:48.319 [main] INFO  c.n.e.s.project.aop.AopConfiguration - [Student{seq=9, name='I', score=Score{studentSeq=9, score=100}}
+, Student{seq=8, name='H', score=Score{studentSeq=8, score=90}}
+, Student{seq=12, name='L', score=Score{studentSeq=12, score=90}}
+, Student{seq=2, name='B', score=Score{studentSeq=2, score=80}}
+, Student{seq=3, name='C', score=Score{studentSeq=3, score=70}}
+, Student{seq=6, name='F', score=Score{studentSeq=6, score=70}}
+, Student{seq=14, name='B', score=Score{studentSeq=14, score=55}}
+, Student{seq=7, name='G', score=Score{studentSeq=7, score=50}}
+, Student{seq=10, name='J', score=Score{studentSeq=10, score=50}}
+, Student{seq=5, name='E', score=Score{studentSeq=5, score=40}}
+, Student{seq=13, name='M', score=Score{studentSeq=13, score=40}}
+, Student{seq=15, name='O', score=Score{studentSeq=15, score=40}}
+, Student{seq=1, name='A', score=Score{studentSeq=1, score=30}}
+, Student{seq=4, name='D', score=Score{studentSeq=4, score=20}}
+, Student{seq=11, name='A', score=Score{studentSeq=11, score=20}}
+]
+11:42:21.623 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 51596083 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+051596083  100%  loadAndMerge
+
+11:42:21.641 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 15757083 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+015757083  100%  getPassedStudents
+
+11:42:21.725 [main] INFO  c.n.e.s.project.aop.AopConfiguration - [Student{seq=2, name='B', score=Score{studentSeq=2, score=80}}
+, Student{seq=3, name='C', score=Score{studentSeq=3, score=70}}
+, Student{seq=6, name='F', score=Score{studentSeq=6, score=70}}
+, Student{seq=8, name='H', score=Score{studentSeq=8, score=90}}
+, Student{seq=9, name='I', score=Score{studentSeq=9, score=100}}
+, Student{seq=12, name='L', score=Score{studentSeq=12, score=90}}
+]
+11:42:21.729 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 2671500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002671500  100%  getStudentsOrderByScore
+
+11:42:21.729 [main] INFO  c.n.e.s.project.aop.AopConfiguration - [Student{seq=9, name='I', score=Score{studentSeq=9, score=100}}
+, Student{seq=8, name='H', score=Score{studentSeq=8, score=90}}
+, Student{seq=12, name='L', score=Score{studentSeq=12, score=90}}
+, Student{seq=2, name='B', score=Score{studentSeq=2, score=80}}
+, Student{seq=3, name='C', score=Score{studentSeq=3, score=70}}
+, Student{seq=6, name='F', score=Score{studentSeq=6, score=70}}
+, Student{seq=14, name='B', score=Score{studentSeq=14, score=55}}
+, Student{seq=7, name='G', score=Score{studentSeq=7, score=50}}
+, Student{seq=10, name='J', score=Score{studentSeq=10, score=50}}
+, Student{seq=5, name='E', score=Score{studentSeq=5, score=40}}
+, Student{seq=13, name='M', score=Score{studentSeq=13, score=40}}
+, Student{seq=15, name='O', score=Score{studentSeq=15, score=40}}
+, Student{seq=1, name='A', score=Score{studentSeq=1, score=30}}
+, Student{seq=4, name='D', score=Score{studentSeq=4, score=20}}
+, Student{seq=11, name='A', score=Score{studentSeq=11, score=20}}
+]
+11:43:39.216 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 48066875 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+048066875  100%  loadAndMerge
+
+11:43:39.229 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 10384417 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+010384417  100%  getPassedStudents
+
+11:43:39.322 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 1542083 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001542083  100%  getStudentsOrderByScore
+
+11:45:35.605 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 13705167 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+013705167  100%  loadAndMerge
+
+11:45:36.143 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 1337167 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001337167  100%  loadAndMerge
+
+11:45:36.178 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 34645500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+034645500  100%  getStudentsOrderByScore
+
+11:45:36.260 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 1233042 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001233042  100%  loadAndMerge
+
+11:45:36.261 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 1313542 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001313542  100%  getPassedStudents
+
+11:45:36.333 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 1699167 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001699167  100%  loadAndMerge
+
+11:45:36.419 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 841708 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000841708  100%  loadAndMerge
+
+11:51:36.699 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 16196125 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+016196125  100%  loadAndMerge
+
+11:51:37.201 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 1625000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001625000  100%  loadAndMerge
+
+11:51:37.223 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 21383166 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+021383166  100%  getStudentsOrderByScore
+
+11:51:37.298 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 579792 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000579792  100%  loadAndMerge
+
+11:51:37.301 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 2335334 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002335334  100%  getPassedStudents
+
+11:51:37.357 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 1718917 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001718917  100%  loadAndMerge
+
+11:51:37.433 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 3043375 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+003043375  100%  loadAndMerge
+
+11:51:45.549 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 43205083 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+043205083  100%  loadAndMerge
+
+11:51:45.642 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 37658834 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+037658834  100%  getPassedStudents
+
+11:51:45.684 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 498625 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000498625  100%  getStudentsOrderByScore
+
+13:14:59.393 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 42738834 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+042738834  100%  loadAndMerge
+
+13:26:09.541 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'loadAndMerge': running time = 46366500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+046366500  100%  loadAndMerge
+
+13:26:09.556 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getPassedStudents': running time = 12789875 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+012789875  100%  getPassedStudents
+
+13:26:09.650 [main] INFO  c.n.e.s.project.aop.AopConfiguration - StopWatch 'getStudentsOrderByScore': running time = 1644500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001644500  100%  getStudentsOrderByScore
+

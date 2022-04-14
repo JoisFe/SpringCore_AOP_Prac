@@ -1,0 +1,5 @@
+com/nhnacademy/edu/springframework/project/repository/ScoresTest.class
+com/nhnacademy/edu/springframework/project/service/GradeQueryServiceTest.class
+com/nhnacademy/edu/springframework/project/service/DataLoadServiceTest.class
+com/nhnacademy/edu/springframework/project/repository/StudentsTest.class
+com/nhnacademy/edu/springframework/project/service/StudentServiceTest.class
